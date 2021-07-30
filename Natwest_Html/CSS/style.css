@@ -1,0 +1,24 @@
+body {
+  background-color: lavender; 
+  font-family: 'Roboto', sans-serif; 
+}
+
+header{
+    font-family: cursive;
+}
+
+main {
+background-color: rgb(241, 167, 241); 
+}
+.p1 {
+    font-size: larger;
+    font-family: 'style Script', cursive;
+  }
+  
+  .p2 {
+     font-family: 'Style Script', cursive;
+     font-weight: 700;
+  }
+
+  
+  
